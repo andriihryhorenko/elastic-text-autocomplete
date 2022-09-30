@@ -1,0 +1,12 @@
+name: dockercompose9703720764496974703
+services:
+  elastic-autocomplete-test-app:
+    build:
+      context: D:\GITHub\elastic-text-autocomplete\elastic-autocomplete-test-app
+      dockerfile: Dockerfile
+    image: elasticautocompletetestapp
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose9703720764496974703_default

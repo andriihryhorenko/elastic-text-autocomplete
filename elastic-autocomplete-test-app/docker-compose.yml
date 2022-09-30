@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  elastic-autocomplete-test-app:
+    image: ${DOCKER_REGISTRY-}elasticautocompletetestapp
+    build:
+      context: .
+      dockerfile: Dockerfile

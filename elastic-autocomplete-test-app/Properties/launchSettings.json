@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "elastic-autocomplete-test-app": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

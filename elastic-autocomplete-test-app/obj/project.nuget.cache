@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wJSj+YGQdP+qK+w4d2bVSofCw4zGo/4N0Wswr1tcUTSmeM3cGuEPaQ62c0885Ry3M8aysWh1cRz46zhKY3ueUA==",
+  "success": true,
+  "projectFilePath": "D:\\GITHub\\elastic-text-autocomplete\\elastic-autocomplete-test-app\\elastic-autocomplete-test-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\grg_a\\.nuget\\packages\\elasticsearch.net\\7.17.4\\elasticsearch.net.7.17.4.nupkg.sha512",
+    "C:\\Users\\grg_a\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\grg_a\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\grg_a\\.nuget\\packages\\nest\\7.17.1\\nest.7.17.1.nupkg.sha512",
+    "C:\\Users\\grg_a\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\grg_a\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\grg_a\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
